@@ -1,0 +1,17 @@
+{
+  "name": "AngularAssignment",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Scott Braaten <sbraaten95@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MikeHannon/AngularAssignment",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
